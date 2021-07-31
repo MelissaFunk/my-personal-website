@@ -9,29 +9,11 @@ body {
      padding-top: 100px;
  }
 
- img {
-     padding-top: 100px;
-     padding-bottom: 100px;
- }
-
  img.resize {
      height: 500px;
      width: auto;
  }
 
- <img id="talkingDogMan" src="IMAGES/talking-hot-dog-man.png">
-
-
  #hotDogMan:hover {
     background: url("IMAGES/talking-hot-dog-man.png") no-repeat;
- }
-
- #talkingDogMan.img {
-     padding-top: 100px;
-     padding-bottom: 100px;
- }
-
- #talkingDogMan.img.resize {
-     height: 500px;
-     width: auto;
  }

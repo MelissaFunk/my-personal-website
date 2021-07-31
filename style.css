@@ -14,9 +14,9 @@ body {
     margin-right: auto;
     width: 533px;
     height: 942px;
-    background-image: url("IMAGES/hot-dog-man.png") no repeat;
+    background-image: url("IMAGES/hot-dog-man.png");
 }
 
 .imghover:hover {
-    background-image: url("IMAGES/talking-hot-dog-man.png") no repeat;
+    background-image: url("IMAGES/talking-hot-dog-man.png");
 }

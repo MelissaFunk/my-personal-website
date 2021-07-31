@@ -9,6 +9,12 @@ body {
      padding-top: 50px;
  }
 
- #hotDogMan:hover {
-    background: url("IMAGES/talking-hot-dog-man.png") no-repeat;
- }
+.imghover {
+    width: 500px;
+    height: auto;
+    background-image: url("IMAGES/hot-dog-man.png");
+}
+
+.imghover:hover {
+    background-image: url("IMAGES/talking-hot-dog-man.png");
+}

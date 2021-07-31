@@ -18,3 +18,7 @@ body {
      height: 500px;
      width: auto;
  }
+
+ #hotDogMan:hover {
+    background: url("IMAGES/talking-hot-dog-man.png") no-repeat;
+ }

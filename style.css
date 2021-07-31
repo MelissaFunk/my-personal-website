@@ -10,9 +10,11 @@ body {
  }
 
 .imghover {
-    width: 533px;
-    height: 942px;
-    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 50px;
     background-image: url("IMAGES/hot-dog-man.png");
 }
 

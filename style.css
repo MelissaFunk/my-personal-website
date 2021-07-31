@@ -12,6 +12,7 @@ body {
 .imghover {
     width: 533px;
     height: 942px;
+    align-items: center;
     background-image: url("IMAGES/hot-dog-man.png");
 }
 

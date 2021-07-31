@@ -6,12 +6,7 @@ body {
   } 
  
   header {
-     padding-top: 100px;
- }
-
- img.resize {
-     height: 500px;
-     width: auto;
+     padding-top: 50px;
  }
 
  #hotDogMan:hover {

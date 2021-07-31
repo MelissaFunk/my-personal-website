@@ -12,6 +12,9 @@ body {
  img {
      padding-top: 100px;
      padding-bottom: 100px;
-     width: 500;
-     height: auto;
+ }
+
+ img.resize {
+     height: 700px;
+     width: auto;
  }

@@ -10,7 +10,7 @@ body {
  }
 
 
- /* original image */
+ /* hover original image */
 .imghover {
     margin-left: auto;
     margin-right: auto;
@@ -19,7 +19,7 @@ body {
     background-image: url("IMAGES/hot-dog-man.png");
 }
 
-/* new image */
+/* hover new image */
 .imghover:hover {
     background-image: url("IMAGES/talking-hot-dog-man.png");
 }
@@ -43,7 +43,11 @@ button {
     text-align: center;
 }
 
+
+ /* Favorite Hot Dogs Page - CSS */
+
 ol {
     text-align: left;
 }
+
 

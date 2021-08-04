@@ -28,6 +28,10 @@ nav {
     text-align: center;
 }
 
+div.question {
+    text-align: center;
+}
+
 button {
     background-color:rgb(240, 235, 164); 
     color: rgb(243, 67, 36); 

@@ -39,6 +39,10 @@ button {
     margin: 0 auto;
 }
 
+#hotdogs {
+    text-align: center;
+}
+
 ol {
     text-align: left;
 }

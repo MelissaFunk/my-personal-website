@@ -50,4 +50,7 @@ ol {
     text-align: left;
 }
 
-
+img.favoritehotdog {
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -23,3 +23,7 @@ body {
     background-image: url("IMAGES/talking-hot-dog-man.png");
 }
 
+button {
+    background-color:rgb(235, 207, 132); 
+    color: rgb(243, 67, 36); 
+}

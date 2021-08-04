@@ -3,5 +3,3 @@ function getNumberOfHotDogs() {
     alert(“you can eat” + numDogs + “dawgs”);
 }
 
-
-  

@@ -27,8 +27,8 @@ button {
     background-color:rgb(240, 235, 164); 
     color: rgb(243, 67, 36); 
     font-size: 20px;
-    border: none;
     padding: 20px 32px;
+    border: none;
     border-radius: 12px;
 }
 

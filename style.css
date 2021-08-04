@@ -23,3 +23,7 @@ body {
     background-image: url("IMAGES/talking-hot-dog-man.png");
 }
 
+button.howmanyhotdogs {
+    padding-top: 50px;
+    font-size: medium;
+}

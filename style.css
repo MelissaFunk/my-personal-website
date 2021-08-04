@@ -24,11 +24,13 @@ body {
 }
 
 button {
-    background-color:rgb(241, 217, 149); 
+    background-color:rgb(240, 235, 164); 
     color: rgb(243, 67, 36); 
-    font-size: medium;
+    font-size: 20px;
     border: none;
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
+    border-radius: 12px;
 }
+

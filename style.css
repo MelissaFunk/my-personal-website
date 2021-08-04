@@ -32,3 +32,6 @@ button {
     border-radius: 12px;
 }
 
+ol.favHotDogs {
+    text-align: left;
+}

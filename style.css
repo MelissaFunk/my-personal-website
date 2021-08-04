@@ -9,6 +9,10 @@ body {
      text-align: center;
  }
 
+ nav {
+     text-align: center;
+ }
+
  /* original image */
 .imghover {
     margin-left: auto;
@@ -27,6 +31,7 @@ button {
     background-color:rgb(240, 235, 164); 
     color: rgb(243, 67, 36); 
     font-size: 20px;
+    text-align: center;
     padding: 20px 32px;
     border: none;
     border-radius: 12px;

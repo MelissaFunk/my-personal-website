@@ -32,7 +32,7 @@ div.question {
     text-align: center;
 }
 
-div.button {
+div.question button {
     background-color:rgb(240, 235, 164); 
     color: rgb(243, 67, 36); 
     font-size: 20px;

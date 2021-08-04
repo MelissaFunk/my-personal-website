@@ -24,6 +24,7 @@ body {
 }
 
 button {
-    background-color:rgb(235, 207, 132); 
+    background-color:rgb(241, 217, 149); 
     color: rgb(243, 67, 36); 
+    font-size: medium;
 }

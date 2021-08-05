@@ -9,6 +9,15 @@ body {
      text-align: center;
  }
 
+nav {
+    text-align: center;
+  }
+  
+li.navbar {
+     display: inline;
+     margin-right: 20px;
+}
+
 
  /* hover original image */
 .imghover {
@@ -24,15 +33,6 @@ body {
     background-image: url("IMAGES/talking-hot-dog-man.png");
 }
 
-nav {
-    text-align: center;
-  }
-  
-li.navbar {
-     display: inline;
-     margin-right: 20px;
-}
-
 button {
     background-color:rgb(240, 235, 164); 
     color: rgb(243, 67, 36); 
@@ -44,7 +44,7 @@ button {
     margin: 0 auto;
 }
 
-#hhotDogButtonAnswer {
+#hotDogButtonAnswer {
     text-align: center;
 }
 

@@ -26,6 +26,8 @@ body {
 
 nav {
     text-align: center;
+    display: inline;
+    margin-right: 10px;
 }
 
 button {
@@ -39,7 +41,7 @@ button {
     margin: 0 auto;
 }
 
-#hotdogs {
+#hhotDogButtonAnswer {
     text-align: center;
 }
 

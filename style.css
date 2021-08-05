@@ -28,7 +28,7 @@ nav {
     text-align: center;
   }
   
-li {
+li.navbar {
      display: inline;
      margin-right: 20px;
 }

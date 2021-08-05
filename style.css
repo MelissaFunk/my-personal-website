@@ -26,8 +26,11 @@ body {
 
 nav {
     text-align: center;
-    display: inline;
-    margin-right: 10px;
+  }
+  
+li {
+     display: inline;
+     margin-right: 20px;
 }
 
 button {

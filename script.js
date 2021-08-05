@@ -1,9 +1,5 @@
 function howManyHotDogs() {
-    var numDogs = prompt ("How many hot dogs can you eat?", "0");
-    if (numDogs = 0) {
-        document.getElementById("hotDogButtonAnswer").innerHTML =
-        numDogs + "? If you hate hot dogs, you will hate this website.";
-    }
+    var numDogs = prompt ("How many hot dogs can you eat?", "1");
     if (numDogs <= 2) {
         document.getElementById("hotDogButtonAnswer").innerHTML =
         "Really, only " + numDogs + "?";

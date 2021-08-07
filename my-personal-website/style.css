@@ -1,0 +1,66 @@
+body {
+    background: rgb(180, 235, 187);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+  } 
+ 
+  header {
+     padding-top: 50px;
+     text-align: center;
+ }
+
+nav {
+    text-align: center;
+  }
+  
+li.navbar {
+     display: inline;
+     margin-right: 20px;
+}
+
+
+ /* hover original image */
+.imghover {
+    margin-left: auto;
+    margin-right: auto;
+    width: 533px;
+    height: 942px;
+    background-image: url("IMAGES/hot-dog-man.png");
+}
+
+/* hover new image */
+.imghover:hover {
+    background-image: url("IMAGES/talking-hot-dog-man.png");
+}
+
+button {
+    background-color:rgb(240, 235, 164); 
+    color: rgb(243, 67, 36); 
+    font-size: 20px;
+    padding: 20px 32px;
+    border: none;
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto;
+}
+
+#hotDogButtonAnswer {
+    text-align: center;
+}
+
+
+ /* Favorite Hot Dogs Page - CSS */
+
+ol {
+  text-align: center;
+  list-style-position: inside;
+}
+
+img.hotDogger {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 300px;
+  height: 250px;
+}

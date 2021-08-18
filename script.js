@@ -1,5 +1,5 @@
 function howManyHotDogs() {
-    var numDogs = prompt ("How many hot dogs can you eat?", "1");
+    const numDogs = prompt ("How many hot dogs can you eat?", "1");
     if (numDogs <= 2) {
         document.getElementById("hotDogButtonAnswer").innerHTML =
         "Really, only " + numDogs + "?";
